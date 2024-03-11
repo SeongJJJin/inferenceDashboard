@@ -1,0 +1,14 @@
+{
+    "object_name": "paper_20240206",
+    "day": "20240206",
+    "class_mAP(50-95)": {
+        "PAPERING_BREAK": 0.121,
+        "PAPERING_ERROR_COTTON": 0.127,
+        "PAPERING_ERROR_JOINT": 0.14,
+        "PAPERING_EXCITED": 0.056,
+        "PAPERING_MOLD": 0.085,
+        "PAPERING_POLLUTION": 0.039,
+        "PAPERING_UNDEVELOPED": 0.469,
+        "PAPERING_WRINKLE": 0.128
+    }
+}
